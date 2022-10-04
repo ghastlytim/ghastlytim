@@ -6,7 +6,7 @@
 <img align="left" src="https://raw.githubusercontent.com/Sowd0404/Sowd0404/main/Assets/L.jpg" alt="logo.jpg" width="200" /> 
 
 ```csharp
-Sowd@github
+ghastlytim@github
 ----------------
        OS  :  Windows 11
       CPU  :  Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz
